@@ -1,4 +1,6 @@
-# A couple notes
+This is a censored repo of my work on PHIlter at the UCSF Bakar Institute.
+---
+### A couple notes
 - Some of the code in this directory was created to work with older versions of Philter, so it might require adjustment to work with a newer version of Philter
 - If a file has whitespace in the name (eg. "for philter beta (obsolete)") it's old, extra, or not important
 - ```DOCUMENTATION.md``` is, funnily enough, my documentation :grin:
